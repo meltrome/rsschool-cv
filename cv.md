@@ -4,23 +4,31 @@
 
 2. **Contacts:**
    Russia, Saint-Petersburg
-   meltrome13@yahoo.com
-   +79818128387
+
+    meltrome13@yahoo.com
+
+    +79818128387
+
+    ***
 
 3. **About me**
    I am currently working as an engineer and really wanted to learn something new. Some of my strengths include perseverance, stress resistance, scrupulousness.
 
+    ***
+
 4. **Skills:**
 
--   HTML5
--   CSS3
--   JavaScript (Basic)
--   BEM
--   Git, GitHub
--   SASS/SCSS
--   Bootstrap
--   Gulp
--   Figma / Photoshop / Avocode
+    - HTML5
+    - CSS3
+    - JavaScript (Basic)
+    - BEM
+    - Git, GitHub
+    - SASS/SCSS
+    - Bootstrap
+    - Gulp
+    - Figma / Photoshop / Avocode
+
+    ***
 
 5. **Code examples**
 
@@ -45,17 +53,24 @@
     });
     ```
 
+    ***
+
 6. **Experiences**
    I have no commercial work experience, only my study projects:
 
     - [pulsar] (https://github.com/meltrome/pulsar)
     - [flowers] (https://github.com/meltrome/Zaverstai-maraphon)
 
+    ***
+
 7. **Education**
 
--   Admiral Makarov State University of Maritime and Inland Shipping
--   ITMO advanced training courses as a web developer
--   Udemy Web-developer 2022 course by Ivan Petrichenko
+    - Admiral Makarov State University of Maritime and Inland Shipping
+    - ITMO advanced training courses as a web developer
+    - Udemy Web-developer 2022 course by Ivan Petrichenko
+
+    ***
 
 8. **Languages**
-   The test says that the level as advanced, but I define it as in intermediate/
+   The test says that the level as advanced, but I define it as in intermediate.
+    ***
