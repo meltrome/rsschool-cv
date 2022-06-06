@@ -1,8 +1,6 @@
-1. **Name:**
-
 # Ilyshev Maksim
 
-2. **Contacts:**
+1. **Contacts:**
    Russia, Saint-Petersburg
 
     meltrome13@yahoo.com
@@ -11,12 +9,12 @@
 
 ---
 
-3. **About me**
+2. **About me**
    I am currently working as an engineer and really wanted to learn something new. Some of my strengths include perseverance, stress resistance, scrupulousness.
 
 ---
 
-4. **Skills:**
+3. **Skills:**
 
     - HTML5
     - CSS3
@@ -30,7 +28,7 @@
 
 ---
 
-5. **Code examples**
+4. **Code examples**
 
     ```javascript
     const hamburger = document.querySelector(".hamburger"),
@@ -55,7 +53,7 @@
 
 ---
 
-6. **Experiences**
+5. **Experiences**
    I have no commercial work experience, only my study projects:
 
     - [pulsar] (https://github.com/meltrome/pulsar)
@@ -63,7 +61,7 @@
 
 ---
 
-7. **Education**
+6. **Education**
 
     - Admiral Makarov State University of Maritime and Inland Shipping
     - ITMO advanced training courses as a web developer
@@ -71,7 +69,7 @@
 
 ---
 
-8. **Languages**
+7. **Languages**
    The test says that the level as advanced, but I define it as in intermediate.
 
 ---
