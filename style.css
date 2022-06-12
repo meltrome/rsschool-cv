@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(171, 155, 171);
+}
+
+.container {
+    width: 1024px;
+    margin: 0px auto;
+}
+
+section {
+    padding-top: 25px;
+}
+
+header {
+    height: 100px;
+}
+
+nav {
+    padding-top: 30px;
+}
+.nav__menu {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}

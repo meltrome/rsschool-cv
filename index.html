@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css" />
+        <title>CV Ilyshev Maksim</title>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <nav>
+                    <ul class="nav__menu">
+                        <li><a href="#">Contacts</a></li>
+                        <li><a href="#">About me</a></li>
+                        <li><a href="#">Skills</a></li>
+                        <li><a href="#">Code examples</a></li>
+                        <li><a href="#">Experiences</a></li>
+                        <li><a href="#">Education</a></li>
+                        <li><a href="#">Languages</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+        <main>
+            <section class="contacts">
+                <div class="container">
+                    <img src="" alt="" />
+                    <h1>Ilyshev Maksim</h1>
+                    <p>Russia, Saint-Petersburg</p>
+                    <a href="mailto:meltrome13@yahoo.com?subject=Вопрос по CV">meltrome13@yahoo.com</a>
+                </div>
+            </section>
+            <section class="about-me">
+                <div class="container">
+                    <h2>About me</h2>
+                    <p>I am currently working as an engineer and really wanted to learn something new. Some of my strengths include perseverance, stress resistance, scrupulousness.</p>
+                </div>
+            </section>
+            <section class="skills">
+                <div class="container">
+                    <h2>Skills</h2>
+                    <ul>
+                        <li>HTML5</li>
+                        <li>CSS3</li>
+                        <li>JavaScript (Basic)</li>
+                        <li>BEM</li>
+                        <li>Git, GitHub</li>
+                        <li>SASS/SCSS</li>
+                        <li>Bootstrap</li>
+                        <li>Gulp</li>
+                        <li>Figma / Photoshop / Avocode</li>
+                    </ul>
+                </div>
+            </section>
+            <section class="code-examples">
+                <div class="container">
+                    <h2>Code examples</h2>
+                    <pre>
+                        <code>
+const hamburger = document.querySelector(".hamburger"),
+    menu = document.querySelector(".menu"),
+    closeElem = document.querySelector(".menu__close");
+
+hamburger.addEventListener("click", () => {
+    menu.classList.add("active");
+});
+
+closeElem.addEventListener("click", () => {
+    menu.classList.remove("active");
+});
+
+const counters = document.querySelectorAll(".skills__ratings-counter"),
+lines = document.querySelectorAll(".skills__ratings-line span");
+
+counters.forEach((item, i) => {
+    lines[i].style.width = item.innerHTML;
+});
+                        </code>
+                    </pre>
+                </div>
+            </section>
+            <section class="experiences">
+                <div class="container">
+                    <h2>Experiences</h2>
+                    <p>I have no commercial work experience, only my study projects:</p>
+                    <a href="#">pulsar</a>
+                    <a href="#">flowers</a>
+                </div>
+            </section>
+            <section class="Education">
+                <div class="container">
+                    <h2>Education</h2>
+                    <ul>
+                        <li>Admiral Makarov State University of Maritime and Inland Shipping</li>
+                        <li>ITMO advanced training courses as a web developer</li>
+                        <li>Udemy Web-developer 2022 course by Ivan Petrichenko</li>
+                    </ul>
+                </div>
+            </section>
+            <section class="languages">
+                <div class="container">
+                    <h2>Languages</h2>
+                    <ul>
+                        <li>Russian</li>
+                        <li>English</li>
+                    </ul>
+                    <p>The <a href="">test</a> says that the level as advanced, but I define it as in intermediate.</p>
+                </div>
+            </section>
+            <footer>
+                <div class="container">
+                    <ul>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                    </ul>
+                </div>
+            </footer>
+        </main>
+    </body>
+</html>
