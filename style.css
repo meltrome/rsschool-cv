@@ -1,27 +1,86 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: rgb(171, 155, 171);
+    font-family: "Montserrat", sans-serif;
 }
 
 .container {
-    width: 1024px;
+    max-width: 1024px;
     margin: 0px auto;
 }
 
 section {
     padding-top: 25px;
+    padding-bottom: 20px;
 }
 
 header {
-    height: 100px;
+    height: 50px;
+    background-color: #ffffff;
 }
 
 nav {
-    padding-top: 30px;
+    padding-top: 15px;
+    background-color: #ffffff;
 }
 .nav__menu {
     display: flex;
     justify-content: space-between;
     list-style: none;
+    background-color: #ffffff;
+}
+.nav__link {
+    background-color: #ffffff;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+.nav__link:hover {
+    transition: background 0.5s 0s ease;
+    background-color: rgb(35, 121, 161);
+    color: #ffffff;
+}
+
+.contacts {
+    min-height: 72vh;
+    background: url(img/avatar.jpg) no-repeat 50% / cover;
+}
+h1 {
+    margin-top: 150px;
+}
+.contacts__list {
+    margin-top: 30px;
+    margin-left: 20px;
+    list-style-type: circle;
+}
+.contacts__list li {
+    padding: 5px 0 5px 0;
+    font-size: 18px;
+}
+.contacts__list a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 500;
+}
+.contacts__list p {
+    font-weight: 500;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.skills {
+    background-color: rgb(35, 121, 161);
+}
+
+pre {
+    background-color: rgb(158, 205, 227);
+}
+
+.experiences {
+    background-color: rgb(35, 121, 161);
+}
+.languages {
+    background-color: rgb(35, 121, 161);
 }
